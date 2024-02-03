@@ -8,7 +8,7 @@ This work is accepted by the 23rd International Conference on Autonomous Agents 
 Keywords: Portfolio Optimisation; Risk Management; Multi-agent System; Deep Reinforcement Learning. 
 
 ## Dataset
-Due to the data policies of the data platforms, the used data sets in this work can not be provided here. Please dwonload the stock data and market data from the platforms such as [Yahoo Finance](https://finance.yahoo.com/), [RiceQuant](https://www.ricequant.com/welcome/), and [JoinQuant](https://www.joinquant.com/). For more data possible sources, please refer to [AI4Finance-FinRL](https://github.com/AI4Finance-Foundation/FinRL). 
+Due to the data policies of the data platforms, the used data sets in this work can not be provided here. Please download the stock data and market data from the platforms such as [Yahoo Finance](https://finance.yahoo.com/), [RiceQuant](https://www.ricequant.com/welcome/), and [JoinQuant](https://www.joinquant.com/). For more possible data sources, please refer to [AI4Finance-FinRL](https://github.com/AI4Finance-Foundation/FinRL). 
 
 To facilitate the use of the customised data set in the MASA framework, an example of the data structure is provided as follows.
 
