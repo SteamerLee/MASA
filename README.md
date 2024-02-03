@@ -14,10 +14,10 @@ To facilitate the use of the customised data set in the MASA framework, an examp
 
 |                    File Name                     |                  Fields                   |                  Description                   |
 | :----------------------------------------------: | :--------------------------------------: | :--------------------------------------------: |
-|                 \data\DJIA_10_1d.csv                  | date, stock, open/high/low/close price, volume |  The 'stock' field is the ranking of stocks in terms of company captial. For the file name "DJIA_10_1d.csv", "DJIA" is the market symbol, "10" is the scale of a portfolio (i.e., the number of assets) while "1d" denotes that the trading frequency is 1-Day (i.e., daily trading).             |
-|                 \data\DJIA_1d_index.csv                 |       date, tic, open/high/low/close price, volume       |    The 'tic' field is the symbol of the market index (e.g., DJIA, CSI 300, and S\&P 500).      |
-|                     \data\DJIA_10_60m.csv (Optional)                   | date, stock, open/high/low/close price, volume | The 'stock' field is the ranking of stocks in terms of company captial. The data may provide the latest information to the market observer. "60m" in the file name is the data freqeuncy is 60 minutes.  |
-| \data\DJIA_60m_index.py (Optional) |         date, tic, open/high/low/close price, volume         |      The 'tic' field is the symbol of the market index (e.g., DJIA, CSI 300, and S\&P 500). The data may provide the latest information to the market observer.     |
+|                 .\data\DJIA_10_1d.csv                  | date, stock, open/high/low/close price, volume |  The 'stock' field is the ranking of stocks in terms of company captial. For the file name "DJIA_10_1d.csv", "DJIA" is the market symbol, "10" is the scale of a portfolio (i.e., the number of assets) while "1d" denotes that the trading frequency is 1-Day (i.e., daily trading).             |
+|                 .\data\DJIA_1d_index.csv                 |       date, tic, open/high/low/close price, volume       |    The 'tic' field is the symbol of the market index (e.g., DJIA, CSI 300, and S\&P 500).      |
+|                     .\data\DJIA_10_60m.csv (Optional)                   | date, stock, open/high/low/close price, volume | The 'stock' field is the ranking of stocks in terms of company captial. The data may provide the latest information to the market observer. "60m" in the file name is the data freqeuncy is 60 minutes.  |
+| .\data\DJIA_60m_index.py (Optional) |         date, tic, open/high/low/close price, volume         |      The 'tic' field is the symbol of the market index (e.g., DJIA, CSI 300, and S\&P 500). The data may provide the latest information to the market observer.     |
 
 
 ## Requirements
