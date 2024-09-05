@@ -96,5 +96,11 @@ We appreciate that they share their amazing works and implementations. This proj
 ## Reference
 Please consider citing our work if you find it helpful to yours.
 ```
-Pending
+@inproceedings{li2024developing,
+  title={Developing a Multi-agent and Self-adaptive Framework with Deep Reinforcement Learning for Dynamic Portfolio Risk Management},
+  author={Li, Zhenglong and Tam, Vincent and Yeung, Kwan L},
+  booktitle={Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems},
+  pages={1174--1182},
+  year={2024}
+}
 ```
