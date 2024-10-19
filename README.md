@@ -91,7 +91,7 @@ We appreciate that they share their amazing works and implementations. This proj
 
 ## Others
 - The implementation is for research purpose only. Please be noted that **the market always has risks**.
-- Should you have any questions, please do not hesitate to contact me: lzlong@hku.hk
+- Should you have any questions, please do not hesitate to contact me: lzlong@connect.hku.hk
 
 ## Reference
 Please consider citing our work if you find it helpful to yours.
